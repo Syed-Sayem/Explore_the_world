@@ -2,14 +2,6 @@
 
 A responsive web application that provides comprehensive information about **295 countries** around the world. Users can easily explore country details such as geography, population, capital, region, languages, currencies, and more through a clean and user-friendly interface.
 
-### Home Page
-
-![Home](./screenshots/home.png)
-
-### Country Details
-
-![Country Details](./screenshots/details.png)
-
 ## ✨ Features
 
 - 🌎 Browse information for 295 countries
